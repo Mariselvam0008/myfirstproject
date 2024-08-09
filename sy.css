@@ -1,0 +1,25 @@
+.td{
+    margin-left: 45px;
+}
+table{
+    color:rgb(0, 0, 0);
+    text-align: right;
+}
+.body{
+    background-position: center;
+}
+.fr{
+
+
+td{
+    padding-inline: 65px;
+}
+}
+td{
+    padding-inline: 25px;
+    font-size: large;
+}
+h1{
+    background-color: rgb(253, 253, 253);
+    padding: auto;
+}

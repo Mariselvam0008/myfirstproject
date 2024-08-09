@@ -1,0 +1,105 @@
+
+*{
+    top:0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}body{
+    text-align: left;
+    text-size-adjust: 100px;
+    font-family: fantasy;
+    color:white;
+
+    
+}
+img{
+    float: center;
+    border-radius: 45px;
+     border: 1px;
+     border:solid;
+     border-color:white;
+     padding: auto;
+     padding: white;
+     background-color: white;
+}
+.two
+{
+    img{
+
+    float: center;
+    border-radius: 45px;
+     border: 1px;
+     border:solid;
+     border-color:white;
+     padding: auto;
+     padding: white;
+     background-color: white;
+}
+p{
+    text-align: left;
+    text-size-adjust: 100px;
+    font-family:fantasy;
+    padding: 100px;
+    color:rgb(255, 255, 255);
+}
+}
+
+    p{
+        text-align: center;
+    text-size-adjust: 100px;
+   
+    font-family: fantasy;
+    padding: 100px;
+    color:white;
+    
+    
+}
+.nav{
+     
+    text-align: right;
+    text-decoration: dashed;
+
+
+}
+a:hover{
+    color: white;
+        text-decoration-line: underline;
+        text-decoration-color: white;
+        padding: auto;
+        background-color: orange;
+}
+a{
+    margin-left: 45px;
+    color:white;
+    padding: auto;
+    padding: orange;
+}
+.body{
+    background-image: url(goods.webp);
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.twlog{
+  img{
+    float:left;
+    margin-bottom: 45px;
+     
+  }
+}
+body{
+    background-image: url('pcb7.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.log{
+    float: left;
+    padding: none;
+    background-color: transparent;
+    border-color: transparent;
+    
+}
